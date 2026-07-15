@@ -1,4 +1,4 @@
-﻿export default function Home() {
+export default function Home() {
   return (
     <main style={{ minHeight: "100vh", display: "grid", placeItems: "center", fontFamily: "system-ui, sans-serif", background: "#f8fafc", color: "#0f172a" }}>
       <div style={{ textAlign: "center" }}>
